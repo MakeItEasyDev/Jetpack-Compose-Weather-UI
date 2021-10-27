@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="weather">Rainy to portly cloudy,\nWinds WSW at 10 to 15 km/h</string>
+</resources>
